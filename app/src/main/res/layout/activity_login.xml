@@ -12,7 +12,7 @@
         android:layout_height="wrap_content"
         android:layout_marginBottom="32dp"
         android:text="@string/login_to_facebook"
-        android:textColor="#2B2B2B"
+        android:textColor="#257DB4"
         android:textSize="30sp"
         android:textStyle="bold"
         app:layout_constraintBottom_toTopOf="@+id/email_edit_text"
